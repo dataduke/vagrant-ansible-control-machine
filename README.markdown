@@ -16,8 +16,8 @@ Prerequisites
 Installation
 ------------
 
-	git clone https://github.com/TFDuesing/vagrant-ansible-control-machine.git
-	cd vagrant-ansible-control-machine
+	git clone https://github.com/dataduke/vagrant-ansible.git
+	cd vagrant-ansible
 	vagrant up
 
 If Vagrant is new to you, you might want to read the [Up and SSH](http://docs.vagrantup.com/v2/getting-started/up.html) section of Vagrant’s Getting Started documentation for what to do next.

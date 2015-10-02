@@ -16,17 +16,15 @@ yum --assumeyes install python-pip python-devel
 
 echo ""
 echo "********************************************************************************"
-echo "  Installing Ansible and pyrax"
+echo "  Installing Ansible"
 echo "********************************************************************************"
 echo ""
 
 yum --assumeyes install ansible
 
-pip install pyrax
-
 
 echo ""
 echo "********************************************************************************"
-echo "  There.  Now we’re done."
+echo "  Finished with bootstrap.sh."
 echo "********************************************************************************"
 echo ""
